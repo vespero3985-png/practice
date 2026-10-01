@@ -27,5 +27,8 @@
     <ClCompile Include="1190_ReverseSubstringsBetweenEachPairofParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="14_LongestCommonPrefix.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
