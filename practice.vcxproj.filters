@@ -21,5 +21,8 @@
     <ClCompile Include="3550_SmallestIndexWithDigitSumEqualtoIndex.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="009_PalindromeNumber.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
