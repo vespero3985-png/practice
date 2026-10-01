@@ -24,5 +24,8 @@
     <ClCompile Include="009_PalindromeNumber.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="1190_ReverseSubstringsBetweenEachPairofParentheses.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
