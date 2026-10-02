@@ -33,5 +33,8 @@
     <ClCompile Include="20_ValidParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="22_GenerateParentheses.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
