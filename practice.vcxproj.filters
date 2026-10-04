@@ -39,5 +39,8 @@
     <ClCompile Include="32_LongestValidParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="678_ValidParenthesisString.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
