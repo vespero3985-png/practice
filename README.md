@@ -6,4 +6,4 @@ Save my practice code to LeetCode.
 | :---: | :----: | :---: |
 | 6     | 4      | 1     |
 
-The table was updated on 2026/10/03.
+The table was updated on 2026/10/05.
