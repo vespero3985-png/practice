@@ -42,5 +42,11 @@
     <ClCompile Include="678_ValidParenthesisString.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="856_ScoreofParentheses.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="13_RomantoInteger.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
