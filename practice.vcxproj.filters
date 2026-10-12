@@ -69,5 +69,11 @@
     <ClCompile Include="2778_SumofSquaresofSpecialElements .cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="1768_MergeStringsAlternately.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="1071_GreatestCommonDivisorofStrings.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
