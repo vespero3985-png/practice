@@ -81,5 +81,8 @@
     <ClCompile Include="Easy\605_CanPlaceFlowers.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\3727_MaximumAlternatingSumofSquares.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
