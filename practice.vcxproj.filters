@@ -78,5 +78,8 @@
     <ClCompile Include="1431_KidsWiththeGreatestNumberofCandies.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="605_CanPlaceFlowers.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
