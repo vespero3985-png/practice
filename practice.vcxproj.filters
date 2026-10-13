@@ -15,70 +15,70 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001_TwoSum.cpp">
+    <ClCompile Include="Easy\001_TwoSum.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="3550_SmallestIndexWithDigitSumEqualtoIndex.cpp">
+    <ClCompile Include="Easy\3550_SmallestIndexWithDigitSumEqualtoIndex.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="009_PalindromeNumber.cpp">
+    <ClCompile Include="Easy\009_PalindromeNumber.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1190_ReverseSubstringsBetweenEachPairofParentheses.cpp">
+    <ClCompile Include="Medium\1190_ReverseSubstringsBetweenEachPairofParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="14_LongestCommonPrefix.cpp">
+    <ClCompile Include="Easy\14_LongestCommonPrefix.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="20_ValidParentheses.cpp">
+    <ClCompile Include="Easy\20_ValidParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="22_GenerateParentheses.cpp">
+    <ClCompile Include="Medium\22_GenerateParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="32_LongestValidParentheses.cpp">
+    <ClCompile Include="Hard\32_LongestValidParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="678_ValidParenthesisString.cpp">
+    <ClCompile Include="Medium\678_ValidParenthesisString.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="856_ScoreofParentheses.cpp">
+    <ClCompile Include="Medium\856_ScoreofParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="13_RomantoInteger.cpp">
+    <ClCompile Include="Easy\13_RomantoInteger.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="921_MinimumAddtoMakeParenthesesValid.cpp">
+    <ClCompile Include="Medium\921_MinimumAddtoMakeParenthesesValid.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="301_RemoveInvalidParentheses.cpp">
+    <ClCompile Include="Hard\301_RemoveInvalidParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1021_RemoveOutermostParentheses.cpp">
+    <ClCompile Include="Easy\1021_RemoveOutermostParentheses.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="27_RemoveElement.cpp">
+    <ClCompile Include="Easy\27_RemoveElement.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1541_MinimumInsertionstoBalanceaParenthesesString.cpp">
+    <ClCompile Include="Medium\1541_MinimumInsertionstoBalanceaParenthesesString.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="2333_MinimumSumof SquaredDifference.cpp">
+    <ClCompile Include="Medium\2333_MinimumSumof SquaredDifference.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="2778_SumofSquaresofSpecialElements .cpp">
+    <ClCompile Include="Easy\2778_SumofSquaresofSpecialElements .cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1768_MergeStringsAlternately.cpp">
+    <ClCompile Include="Easy\1768_MergeStringsAlternately.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1071_GreatestCommonDivisorofStrings.cpp">
+    <ClCompile Include="Easy\1071_GreatestCommonDivisorofStrings.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="1431_KidsWiththeGreatestNumberofCandies.cpp">
+    <ClCompile Include="Easy\1431_KidsWiththeGreatestNumberofCandies.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="605_CanPlaceFlowers.cpp">
+    <ClCompile Include="Easy\605_CanPlaceFlowers.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
