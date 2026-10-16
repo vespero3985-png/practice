@@ -96,5 +96,8 @@
     <ClCompile Include="Easy\2913_SubarraysDistinctElementSumofSquaresI.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\238_ProductofArrayExceptSelf.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
