@@ -99,5 +99,8 @@
     <ClCompile Include="Medium\238_ProductofArrayExceptSelf.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\283_MoveZeroes.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
