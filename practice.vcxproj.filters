@@ -102,5 +102,8 @@
     <ClCompile Include="Easy\283_MoveZeroes.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\334_IncreasingTripletSubsequence.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
