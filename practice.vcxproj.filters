@@ -108,5 +108,8 @@
     <ClCompile Include="Easy\2089_FindTargetIndicesAfterSortingArray.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\443_StringCompression.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
