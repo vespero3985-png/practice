@@ -114,5 +114,8 @@
     <ClCompile Include="Easy\392_IsSubsequence.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\3863_MinimumOperationstoSortaString.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
