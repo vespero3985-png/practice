@@ -120,5 +120,8 @@
     <ClCompile Include="Medium\11_ContainerWithMostWater.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\1679_MaxNumberofK-SumPairs.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
