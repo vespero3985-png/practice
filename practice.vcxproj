@@ -168,6 +168,7 @@
     <ClCompile Include="Medium\11_ContainerWithMostWater.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Medium\1456_MaximumNumberofVowelsinaSubstringofGivenLength.cpp" />
     <ClCompile Include="Medium\151_ReverseWordsinaString.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
