@@ -129,5 +129,11 @@
     <ClCompile Include="Medium\1456_MaximumNumberofVowelsinaSubstringofGivenLength.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\3619_CountIslandsWithTotalValueDivisiblebyK.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Medium\1004_MaxConsecutiveOnesIII.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
