@@ -135,5 +135,8 @@
     <ClCompile Include="Medium\1004_MaxConsecutiveOnesIII.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\3963_CreateGridWithExactlyOnePath.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
