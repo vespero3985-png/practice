@@ -138,5 +138,8 @@
     <ClCompile Include="Easy\3963_CreateGridWithExactlyOnePath.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\1493_LongestSubarrayof1%27sAfterDeletingOneElement.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
