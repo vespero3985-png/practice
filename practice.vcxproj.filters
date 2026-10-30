@@ -144,5 +144,8 @@
     <ClCompile Include="Easy\1732_FindtheHighestAltitude.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\724_FindPivotIndex.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
