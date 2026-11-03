@@ -150,5 +150,11 @@
     <ClCompile Include="Easy\2215_FindtheDifferenceofTwoArrays.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\1207_UniqueNumberofOccurrences.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\3736_MinimumMovestoEqualArrayElementsIII.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
