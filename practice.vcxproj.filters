@@ -162,5 +162,11 @@
     <ClCompile Include="Medium\2352_EqualRowandColumnPairs.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\2390_RemovingStarsFromaString.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1385_FindtheDistanceValueBetweenTwoArrays.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
