@@ -174,5 +174,8 @@
     <ClCompile Include="Easy\1137_N-thTribonacciNumber.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\746_MinCostClimbingStairs.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
