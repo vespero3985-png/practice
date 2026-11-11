@@ -4,6 +4,6 @@ Save my practice code to LeetCode.
 
 | Easy  | Medium | Hard  | Total |
 | :---: | :----: | :---: | :---: |
-| 25    | 23     | 2     | 50    |
+| 27    | 25     | 2     | 54    |
 
-The table was updated on 2026/11/06.
+The table was updated on 2026/11/11.
