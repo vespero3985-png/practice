@@ -183,5 +183,11 @@
     <ClCompile Include="Medium\3789_MinimumCosttoAcquireRequiredItems.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\933_NumberofRecentCalls.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
