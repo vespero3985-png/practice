@@ -189,5 +189,8 @@
     <ClCompile Include="Easy\3105_LongestStrictlyIncreasingorStrictlyDecreasingSubarray.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\649_Dota2Senate.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
