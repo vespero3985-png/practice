@@ -198,5 +198,8 @@
     <ClCompile Include="Medium\2095_DeletetheMiddleNodeofaLinkedList.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\2243_CalculateDigitSumofaString.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
