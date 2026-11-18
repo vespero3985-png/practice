@@ -204,5 +204,8 @@
     <ClCompile Include="Medium\328_OddEvenLinkedList.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\206_ReverseLinkedList.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
