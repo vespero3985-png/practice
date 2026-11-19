@@ -207,5 +207,8 @@
     <ClCompile Include="Easy\206_ReverseLinkedList.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\2130_MaximumTwinSumofaLinkedList.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
