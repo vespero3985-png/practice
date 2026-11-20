@@ -210,5 +210,8 @@
     <ClCompile Include="Medium\2130_MaximumTwinSumofaLinkedList.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\104_MaximumDepthofBinaryTree.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
